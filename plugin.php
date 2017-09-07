@@ -5,7 +5,7 @@ Plugin URI: https://wpml.org/
 Description: Adds CMS navigation elements to sites built with WPML | <a href="https://wpml.org">Documentation</a> | <a href="https://wpml.org/version/cms-nav-1-4-21/">WPML CMS Nav 1.4.21 release notes</a>
 Author: OnTheGoSystems
 Author URI: http://www.onthegosystems.com/
-Version: 1.4.21
+Version: 1.4.22
 Plugin Slug: wpml-cms-nav
 */
 
